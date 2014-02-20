@@ -1,0 +1,14 @@
+{
+	"flatland_square_tabs": true,
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 3,
+	"theme": "Flatland Dark.sublime-theme",
+	"word_wrap": false,
+   "color_scheme":"Packages/Color Scheme - Default/Dracula.tmTheme"
+}
